@@ -1,0 +1,11 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/8.png") no-repeat right bottom;
+}
+
+p {
+    color: red;
+}
